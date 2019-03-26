@@ -1,4 +1,4 @@
-package com.ybh.test_1;
+﻿package com.ybh.test_1;
 
 import java.math.BigDecimal;
 
@@ -10,6 +10,7 @@ public class Test_1 {
 		if(intValue < 0){
 			throw new  Exception("输入有误");
 		}
+		System.out.println(intValue);
 		System.out.println(intValue);
 	}
 }
