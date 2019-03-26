@@ -1,4 +1,4 @@
-﻿package com.ybh.test_1;
+package com.ybh.test_1;
 
 import java.math.BigDecimal;
 
